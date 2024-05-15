@@ -31,7 +31,7 @@ export default function Home() {
             <span>Checkout</span>
           </Button>
           <Button asChild variant="secondary">
-            <Link href="login">Log in</Link>
+            <Link href="login">pay</Link>
           </Button>
         </div>
       </div>
