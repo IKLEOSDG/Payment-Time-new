@@ -18,7 +18,7 @@ model User {
   pets           Pet[]
 }
 
-model Pet {
+model Services {
   id        String   @id @default(cuid())
   name      String
   ownerName String
